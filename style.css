@@ -1,0 +1,116 @@
+/* Resetando margens e padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo geral do corpo */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff3e6; /* Fundo suave com um toque de cor */
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #ff6347; /* Cor vibrante para destacar */
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3.5rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+/* Seção de história */
+.historia {
+    padding: 40px;
+    background-color: #ffffff;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.historia h2 {
+    font-size: 2.5rem;
+    color: #ff6347;
+    margin-bottom: 20px;
+}
+
+.historia p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+/* Seção de cardápio */
+.cardapio {
+    padding: 40px;
+    background-color: #fff;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cardapio h2 {
+    font-size: 2.5rem;
+    color: #ff6347;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.categoria {
+    margin-bottom: 40px;
+}
+
+.categoria h3 {
+    font-size: 2rem;
+    color: #ff6347;
+    margin-bottom: 15px;
+}
+
+.donuts {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.item {
+    text-align: center;
+    background-color: #ffe4b5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.item p {
+    font-size: 1.1rem;
+    color: #333;
+}
+
+/* Rodapé */
+footer {
+    background-color: #ff6347;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+footer p {
+    font-size: 1rem;
+}
