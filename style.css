@@ -8,7 +8,7 @@
 /* Estilo geral do corpo */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #ecdbc1a6; /* Fundo suave com um toque de cor */
+    background-color: #e90f87a6; /* Fundo suave com um toque de cor */
     color: #333;
     line-height: 1.6;
 }
@@ -33,7 +33,7 @@ header p {
 /* Seção de história */
 .historia {
     padding: 40px;
-    background-color: #ffffff;
+    background-color: #e6dbae;
     margin: 20px 0;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
