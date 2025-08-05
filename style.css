@@ -8,7 +8,7 @@
 /* Estilo geral do corpo */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #e90f87a6; /* Fundo suave com um toque de cor */
+    background-color: #ff0000; /* Fundo suave com um toque de cor */
     color: #333;
     line-height: 1.6;
 }
@@ -61,7 +61,7 @@ header p {
 
 .cardapio h2 {
     font-size: 2.5rem;
-    color: #ff4784a9;
+    color: #ff478473;
     text-align: center;
     margin-bottom: 30px;
 }
