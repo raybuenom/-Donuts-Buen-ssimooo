@@ -36,7 +36,7 @@ header p {
     background-color: #e6dbae;
     margin: 20px 0;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(233, 196, 117, 0.829);
+    box-shadow: 0 0 10px rgba(95, 62, 211, 0.829);
 }
 
 .historia h2 {
@@ -53,7 +53,7 @@ header p {
 /* Seção de cardápio */
 .cardapio {
     padding: 40px;
-    background-color: #da1c35;
+    background-color: #e6c87788;
     margin: 20px 0;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -104,7 +104,7 @@ header p {
 
 /* Rodapé */
 footer {
-    background-color: #ff47ac9d;
+    background-color: #ff47ac75;
     color: rgba(243, 232, 201, 0.795);
     text-align: center;
     padding: 20px 0;
