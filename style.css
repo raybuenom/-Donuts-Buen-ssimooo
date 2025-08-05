@@ -36,7 +36,7 @@ header p {
     background-color: #e6dbae;
     margin: 20px 0;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(233, 196, 117, 0.829);
 }
 
 .historia h2 {
@@ -53,7 +53,7 @@ header p {
 /* Seção de cardápio */
 .cardapio {
     padding: 40px;
-    background-color: #ebd8a3;
+    background-color: #da1c35;
     margin: 20px 0;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
