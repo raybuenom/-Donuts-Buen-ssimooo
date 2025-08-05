@@ -15,7 +15,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #ff6347; /* Cor vibrante para destacar */
+    background-color: #ff478dad; /* Cor vibrante para destacar */
     color: white;
     padding: 40px 0;
     text-align: center;
@@ -41,7 +41,7 @@ header p {
 
 .historia h2 {
     font-size: 2.5rem;
-    color: #ff6347;
+    color: #f546a6b4;
     margin-bottom: 20px;
 }
 
@@ -61,7 +61,7 @@ header p {
 
 .cardapio h2 {
     font-size: 2.5rem;
-    color: #ff6347;
+    color: #ff4784a9;
     text-align: center;
     margin-bottom: 30px;
 }
@@ -72,7 +72,7 @@ header p {
 
 .categoria h3 {
     font-size: 2rem;
-    color: #ff6347;
+    color: #ff479daf;
     margin-bottom: 15px;
 }
 
@@ -84,7 +84,7 @@ header p {
 
 .item {
     text-align: center;
-    background-color: #ffe4b5;
+    background-color: #ffb5da;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -104,7 +104,7 @@ header p {
 
 /* Rodapé */
 footer {
-    background-color: #ff6347;
+    background-color: #ff47ac9d;
     color: white;
     text-align: center;
     padding: 20px 0;
